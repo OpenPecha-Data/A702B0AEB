@@ -1,0 +1,31 @@
+segment_sources:
+  P61EC9907:
+    type: origin_type
+    relation: translation
+    language: en
+  PED2A9CDD:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b544362eba814db8b3f66f5320d1ffdf:
+    P61EC9907: 44fc1f268380431db9f9ccb66af76cdf
+    PED2A9CDD: d3d97c6be6f7458ba2f955ac6b401637
+  b3f860dbeb83474e935b026b243fa683:
+    P61EC9907: 80565f8274774e92a1542719df4c28cc
+    PED2A9CDD: 7adf85e6018449f3876e1fc51e9bc8a7
+  351ce2dc66d84fcd9ea77e7837aa26c0:
+    P61EC9907: e71212ec0057421ca5a2474185f1b727
+    PED2A9CDD: 93a2faafa29f4468b90684bacd1bddcd
+  f14cd42501be4b2c8fc615deff530b3b:
+    P61EC9907: f7740f95f76e4d539c7aca6608f0cf5f
+    PED2A9CDD: 0dc8a3fce10f4b93b6fa9eafd5d13e55
+  84125d1347e245f18c53f6cb1a335ad5:
+    P61EC9907: 6f2d727eca2a45c8a4ce4b629a07f986
+    PED2A9CDD: 067f3719a2754265b7ce2ab03eb69ffa
+  734426ef762a4895855a36ff7707b81d:
+    P61EC9907: 76475975798546929d712abfdf3852c0
+    PED2A9CDD: 0b409a760c464755927b3e39daea865e
+  ca1a1b64b69d4b20aa4746511ac759d5:
+    P61EC9907: 6a9a00645b604a6ea9efb4b95ebd1eff
+    PED2A9CDD: 79e337fca0144b62a42ec2c75373b5c9
